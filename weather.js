@@ -20,4 +20,5 @@ class Weather {
     }
 }
 
+
 // https://www.wunderground.com/weather/api/d/docs
