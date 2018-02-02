@@ -19,3 +19,5 @@ class Weather {
         this.state = state;
     }
 }
+
+// https://www.wunderground.com/weather/api/d/docs
